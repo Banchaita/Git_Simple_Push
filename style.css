@@ -1,0 +1,15 @@
+.container {
+    background: brown;
+    width: 50%;
+    margin: auto;
+    padding: 1rem;
+    margin-top: 10rem;
+}
+.container .name h1{
+    text-align: center;
+    color: #fff;
+}
+.container .email h2{
+    text-align: center;
+    color: #fff;
+}
